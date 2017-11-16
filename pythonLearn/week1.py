@@ -4,7 +4,7 @@ print ("Hello, Python!");
 
 #行和缩进
 if True:
-    print "True"
+    print ("True")
 else:
     print "False"
 
