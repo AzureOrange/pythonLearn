@@ -6,7 +6,7 @@ print ("Hello, Python!");
 if True:
     print ("True")
 else:
-    print "False"
+    print ("False")
 
 
 if True:
