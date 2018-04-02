@@ -1,0 +1,29 @@
+一、nltk
+自然语言处理工具包（Natural Language Toolkit）
+应用：
+- 文本提取
+- 词汇切分
+- 词频分析
+- 词袋模型
+- 情感分析
+
+二、igraph
+图计算和社交网络分析http://igraph.org/python/
+
+三、Scikit-learn
+Scikit-learn是建立在Scipy之上的一个用于机器
+学习的Python模块。
+
+四、Python2和Python3区别简介
+o print()函数
+o 整除： 3/2=1.5(python3);3/2=1(python2)
+o 支持Unicode (utf-8) 字符串
+o xrange()函数被集成在range()函数中
+o raising exceptions： raise IOError("file error")
+o Handling exceptions： except NameError as err
+o 取消.next()
+o For 循环变量和全局命名空间泄漏: [... for var in (item1, item2
+o 比较不可排序内容抛出错误
+o 通过input()解析用户输入： 把用户的输入存储为一个 str 对象
+o 返回可迭代对象，而不是列表
+o 使用 __future__ 模块支持python3： division、 print_function
